@@ -1,2 +1,2 @@
 # folha-de-ponto
-agradecimentos e de desenvolvedores
+agradecimentos e desenvolvedores
